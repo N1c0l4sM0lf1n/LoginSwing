@@ -1,0 +1,4 @@
+ola;BAJA
+olaaaaaaaaa;ALTA
+tula;MEDIA
+p;ALTA

@@ -81,7 +81,7 @@ public class MainView extends JFrame {
     }
     private void mostrarDialogoAgregar () {
         JTextField descField = new JTextField ();
-        String [] opciones = {" BAJA ", " MEDIA ", " ALTA "};
+        String [] opciones = {"BAJA", "MEDIA", "ALTA"};
         JComboBox <String > prioridadBox = new JComboBox < >( opciones );
         JPanel panel = new JPanel (new GridLayout (2 , 2));
         panel .add( new JLabel (" Descripción:"));
